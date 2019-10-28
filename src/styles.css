@@ -28,3 +28,30 @@ a:hover {
 .section-container {
     padding: 30px;
 }
+
+.card-theme {
+    background-color: #191F26;
+    border: none;
+    border-radius: 2px;
+}
+
+.card-heading-theme {
+    color: #eee;
+    background-color: #161A1E;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 12px;
+}
+
+.card-body-theme {
+    background-color: #191F26;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-container {
+    padding: 30px;
+}
